@@ -1,0 +1,15 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+       akash       0.46      0.67      0.55         9
+        asif       0.00      0.00      0.00         5
+      mehedi       0.20      0.20      0.20         5
+
+    accuracy                           0.37        19
+   macro avg       0.22      0.29      0.25        19
+weighted avg       0.27      0.37      0.31        19
+
+Confusion Matrix:
+[[6 1 2]
+ [3 0 2]
+ [4 0 1]]
